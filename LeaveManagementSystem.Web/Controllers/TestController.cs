@@ -11,7 +11,7 @@ namespace LeaveManagementSystem.Web.Controllers
             {
                 Name = "Valentin",
                 DateOfBirth = new DateTime(2003,01,08)
-            };
+            };  
             return View(data);
         }
     }
